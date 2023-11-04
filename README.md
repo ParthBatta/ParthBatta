@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth Batta</h1>
-<h3 align="center">As an enthusiastic undergraduate engineer committed to growth in software development, I possess the technical skills to foster innovation and meaningful contributions. I am passionate about analytics, skilled in decision-making, and have experience managing teams. My background includes hands-on experience in creating interactive dashboards, and I'm eager to explore new challenges and expand my horizons.</h3>
+<h3 align="center">Enthusiastic software engineering undergraduate with technical skills, analytics passion, and team management experience. Proven ability to create interactive dashboards. Seeking new challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthbatta&label=Profile%20views&color=0e75b6&style=flat" alt="parthbatta" /> </p>
 
